@@ -1,7 +1,7 @@
 ## python-challenge-1
 Jason Clibanoff: Python Challenge 1
 
-This python program allows the users to select items from the following menu and provides a reciept with the total cost and list of all ordered items.
+This python program allows the users to select items from the following menu and provides a reciept with the total cost and list of all ordered items' names, prices, and quantities.
 
 # Menu
 |Snacks      | Price     |
